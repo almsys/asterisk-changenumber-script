@@ -33,6 +33,7 @@ Hangup - ложим трубку
 
 
 Клонируем репозиторий в /usr/bin/confgen.sh или /opt/confgen.sh:
+
 git clone https://github.com/almsys/asterisk-changenumber-script.git
 
 Как работает скрипт:
