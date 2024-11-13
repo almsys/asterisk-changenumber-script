@@ -20,7 +20,7 @@ exten => _557XXX/_[126]XX,1,Answer()
 
  same => n,PauseQueueMember(,SIP/${CALLERID(num)});
  
- same => n,AGI(confgen2al.sh,${CHANNEL(uri)},${EXTEN:3},${CALLERID(num)})
+ same => n,AGI(confgen.sh,${CHANNEL(uri)},${EXTEN:3},${CALLERID(num)})
  
  same => n,Hangup()
 
