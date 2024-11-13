@@ -6,7 +6,7 @@ Bash script for Asterisk to change number on Cisco and Yealink desktop phones au
 
 Исходные данные:
 * Кол центр на голом Asterisk
-* Аппаратные телефоны Cisco SPA303 и Yealink T20 и T21
+* Аппаратные телефоны Cisco SPA303 и Yealink T20/T21
  
 У этого решения есть минусы:
 
